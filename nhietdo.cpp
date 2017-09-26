@@ -8,5 +8,6 @@ int main(void)
 	cout<<"nhap do F: ";
 	cin>>F;
 	cout<< F << " do F=" << 5*(F-32)/9 << " do C ";
+	cout<<"end program!!!";
 	return 0;
 }
