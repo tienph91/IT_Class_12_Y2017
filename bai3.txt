@@ -1,0 +1,12 @@
+
+Bt3: Trong các tên sau, tên nào du?c d?t dúng(Không du?c dùng IDE devcpp d? check)
+- x : Ðúng
+- 123variabe : sai vì b?t d?u b?ng s? 
+- tin_hoc : dúng
+- toan tin : sai vì có d?u cách
+- so-dem : sai vì có d?u g?ch ngang
+- RADIUS : Ðúng
+- one.0 : sai
+- number# : sai
+- Radius : dúng
+- nam2000 : dúng
