@@ -13,7 +13,7 @@ main()
 	}
 	while(a<=0);
 	
-	cout<<" so nguyen gan nhat la:  " << (int)a+1 <<endl;
+	cout<<" so nguyen gan nhat la:  " << (int)(a+0.5) <<endl;
 	cout<<" so nguyen gan nhat nho hon no la: "<< (int)a<<endl;
 	
 	getch();
