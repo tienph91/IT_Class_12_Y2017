@@ -4,7 +4,7 @@ int main(void)
 {
   int A[100], n;
   int tg;
-  cout<<"nhap so luong phan tu mang n= ";cin>>n;
+  cout<<"";cin>>n;
   for(int i= 1 ; i<=n ; i++ )
   {
   	cout<<"nhap phan tu A["<<i<<"]= ";
