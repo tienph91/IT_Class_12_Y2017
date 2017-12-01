@@ -20,7 +20,7 @@ int main(void)
 	if(A[i]<A[j])
 	{
 		tg=A[i];
-		A[i]=A[j];
+		A[i]=A[j]; 
 		A[j]=tg;
 	}
     cout<<"day vua sap xep la: \n";
