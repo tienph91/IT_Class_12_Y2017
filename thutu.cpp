@@ -27,6 +27,6 @@ int main(void)
 	 }
     cout<<"day vua sap xep la: \n";
      for(int i=1;i<=n;i++)
-    xxxx;
+    yyyy;
 }
 
