@@ -31,7 +31,7 @@ int main(void)
 }
 function a(int a, int b)
 {
-	return a*b;
+	return a*b-1;
 }
 
 
