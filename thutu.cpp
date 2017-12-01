@@ -12,7 +12,6 @@ int main(void)
   }
     cout<<"mang vua nhap la: \n";
      for(int i=1;i<=n;i++)
-	cout<<A[i]<<" ";
 	 
 	 for(int i=1;i<=n;i++)
 	for(int j=i+1;j<=n;j++)
@@ -23,6 +22,9 @@ int main(void)
 		A[i]=A[j]; 
 		A[j]=tg;
 	}
+	 {
+	 	cout<<"abcdf";
+	 }
     cout<<"day vua sap xep la: \n";
      for(int i=1;i<=n;i++)
     cout<< A[i] <<" ";
