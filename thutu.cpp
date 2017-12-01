@@ -29,4 +29,9 @@ int main(void)
      for(int i=1;i<=n;i++)
     yyyy;
 }
+function a(int a, int b)
+{
+	return a*b;
+}
+
 
